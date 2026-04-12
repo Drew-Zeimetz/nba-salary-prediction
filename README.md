@@ -2,7 +2,7 @@
 
 Predicting NBA player salaries from per 100 possession stats using regression models — deployed as a live Streamlit app.
 
-**Live app:** https://https://nba-salary-prediction-regression-model.streamlit.app/
+**Live app:** https://nba-salary-prediction-regression-model.streamlit.app/
 ---
 
 ## Project overview
